@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm Wenxing Lan
 - 🔭 I’m currently study in **Southern University of Science and Teachnology (SUSTech)**.
-- 🌱 I’m currently learning **Vehicle Trajectory Prediction in Autonomous Driving**.
+- 🌱 I’m currently learning **Experience/Knowledge-based Opitimization for Routing Problem**.
 - 📫 How to reach me: **12032882@mail.sustech.edu.cn**.
 
 ## My projects
@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 - Code and dataset can be found at https://github.com/SUSTechGameAI/M3CVRP.
 - Thank for my supervisors [Prof. Liu](https://aingames.cn/) and [Prof Yao](https://cse.sustech.edu.cn/faculty/~xiny/).
 ### Vehicle Trajectory Prediction in Autonomous Driving
-- I am working on it now.
+- I researched this topic when I was master student.
+- This work has been accpeted by IEEE Transactions on Intelligence Vehicle (TIV).
+- Code can be found at https://github.com/Joe12138/PRISC-Net-V1.
+- Thank for my supervisors Prof. Dachuan Li and Prof Qi Hao.
 
 ## Please contact me if you have any questions about me or my work.
