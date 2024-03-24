@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 ## My projects
 ### Multi-depot multi-trip multi-disposal-facility capacitated vehicle routing problem
 - I have study this topic when I was undergraduate student.
-- Published this work in IEEE TEVC. Paper can be found at https://ieeexplore.ieee.org/document/9594087/.
+- Published this work in IEEE TEVC. Paper can be available at https://ieeexplore.ieee.org/document/9594087/.
 - Code and dataset can be found at https://github.com/SUSTechGameAI/M3CVRP.
 - Thank for my supervisors [Prof. Liu](https://aingames.cn/) and [Prof Yao](https://cse.sustech.edu.cn/faculty/~xiny/).
 ### Vehicle Trajectory Prediction in Autonomous Driving
 - I researched this topic when I was master student.
-- This work has been accpeted by IEEE Transactions on Intelligence Vehicle (TIV).
+- This work has been accpeted by IEEE Transactions on Intelligence Vehicle (TIV). Paper can be available at https://ieeexplore.ieee.org/document/10356826.
 - Code can be found at https://github.com/Joe12138/PRISC-Net-V1.
-- Thank for my supervisors Prof. Dachuan Li and Prof Qi Hao.
+- Thank for my supervisors Prof. Dachuan Li and Prof. Qi Hao.
 
 ## Please contact me if you have any questions about me or my work.
